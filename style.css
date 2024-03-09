@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    align-items: center;
+    max-width: 400px;
+    margin-top: 40px;
+}
+
+h2{
+    color: #119759;
+    margin: 16px 0px;
+}
+
+.form-control{
+    width: 300px;
+}
